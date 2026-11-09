@@ -1,0 +1,6 @@
+"city", "temperature"
+"mashhad", "40"
+"semnan","30"
+"oromyeh","25"
+"azarbaijan", "20"
+"tehran","26"
